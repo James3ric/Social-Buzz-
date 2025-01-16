@@ -1,6 +1,6 @@
-# Social-Buzz-
+# Social-Buzz
 
-# Social Buzz: Big Data Audit and Content Popularity Analysis
+# Social Buzz: Content Popularity Analysis
 
 ## Project Overview
 This repository contains the solution for the Social Buzz project, which focuses on analyzing content categories to identify the top 5 categories with the largest aggregate popularity. The project is part of a 3-month engagement designed to showcase our expertise and help Social Buzz prepare for their upcoming IPO.
