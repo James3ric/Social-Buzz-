@@ -5,13 +5,7 @@
 ## Project Overview
 This repository contains the solution for the Social Buzz project, which focuses on analyzing content categories to identify the top 5 categories with the largest aggregate popularity. The project is part of a 3-month engagement designed to showcase our expertise and help Social Buzz prepare for their upcoming IPO.
 
-## Client Background
-**Company Name:** Social Buzz  
-**Industry:** Social Media & Content Creation  
-**Year Established:** 2010  
-**Headquarters:** San Francisco  
-**Number of Employees:** 250 (200 technical staff)  
-**Monthly Active Users:** Over 500 million  
+## Client Background  
 
 Social Buzz is a rapidly growing social media platform emphasizing content-centric feeds and unique user reactions. With over 100 reaction types and unstructured data generated from 100,000 daily posts, the company requires sophisticated data management solutions and strategic guidance for scaling and IPO readiness.
 
